@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+<Geraldy_Gay>
 <html lang="id">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Ucapan Ulang Tahun Fredrik</title>
+    <title>Ucapan Ulang Tahun Geraldy</title>
     <style>
       body {
         font-family: Arial, sans-serif;
@@ -42,7 +42,7 @@
   </head>
   <body>
     <div class="card">
-      <h1>Selamat Ulang Tahun Fredrik!</h1>
+      <h1>Selamat Ulang Tahun Geraldy!</h1>
       <p>Semoga tahun ini gacha tidak ampas.</p>
       <p>Jangan lupa bersyukur dengan gacha mu.</p>
       <a href="#" class="button">GACHA</a>
